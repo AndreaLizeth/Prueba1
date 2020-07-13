@@ -1,11 +1,11 @@
 package com.example.prueba1.Model;
 
 public class Persona {
-    public String uid;
-    public String Nombre;
-    public String Apellido;
-    public String Correo;
-    public String Password;
+    private String uid;
+    private String Nombre;
+    private String Apellido;
+    private String Correo;
+    private String Password;
 
     public Persona() {
 
